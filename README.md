@@ -18,7 +18,7 @@ Meet EdgeLord. This project takes Microsoft Edge, wraps it, and turns it into a 
 
 ## Installation
 
-1. **Fork or Template**: Navigate to the [EdgeLord GitHub repository](https://github.com/yourusername/edgelord) and fork it. Or use it as a template if you're not into commitment.
+1. **Fork or Template**: Navigate to the [EdgeLord GitHub repository](https://github.com/MSEdgeLord/EdgeLord) and fork it. Or use it as a template if you're not into commitment.
   
 2. **Click Things**: GitHub Actions should be enabled. If not, click on the "Actions" tab until it's on.
 
@@ -36,7 +36,7 @@ Meet EdgeLord. This project takes Microsoft Edge, wraps it, and turns it into a 
 
 ## License
 
-Multiply license. Because sharing is caring, but also legally binding. See the [LICENSE.md](./LICENSE.md) for legalese.
+Multiply license. Because sharing is caring, but also legally binding. See the [LICENSE.md](LICENSE.md) for legalese.
 
 ## Contact
 
