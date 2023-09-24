@@ -4,7 +4,7 @@
 
 # User agreement prompt
 echo "By using this container, you agree to the terms and license at the following locations:"
-echo "License: https://raw.githubusercontent.com/dosyago/BrowserBoxPro/0b3ae2325eb95a2da441adc09411e2623fef6048/LICENSE.md"
+echo "License: https://raw.githubusercontent.com/dosyago/EdgeLordPro/0b3ae2325eb95a2da441adc09411e2623fef6048/LICENSE.md"
 echo "Terms: https://dosyago.com/terms.txt"
 echo "Privacy: https://dosyago.com/privacy.txt"
 read -p "Do you agree to these terms? Enter 'yes' or 'no': " agreement
@@ -28,7 +28,7 @@ print_instructions() {
   echo "2. Obtain your SSL certificate and private key files. You can use 'mkcert' for localhost, or 'Let's Encrypt' for a public hostname."
   echo "3. Place your certificate in the 'sslcerts' directory with the name 'fullchain.pem'."
   echo "4. Place your private key in the 'sslcerts' directory with the name 'privkey.pem'."
-  echo "5. Ensure these files are for the domain you want to serve BrowserBoxPro from (i.e., the domain of the current machine)."
+  echo "5. Ensure these files are for the domain you want to serve EdgeLordPro from (i.e., the domain of the current machine)."
 }
 
 # Check if directory exists

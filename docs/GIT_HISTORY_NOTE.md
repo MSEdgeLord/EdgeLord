@@ -8,7 +8,7 @@ I, Cris Stringfellow
 
 Founder of the Dosyago Corporation
 
-Creator of the BrowserBox series of projects
+Creator of the EdgeLord series of projects
 
 do hereby declare that I am flattening the
 

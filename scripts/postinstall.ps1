@@ -1,5 +1,5 @@
 
-# Postinstall Script for BrowserBox
+# Postinstall Script for EdgeLord
 
 # Import Core Functions
 # Get-InstallDir Function

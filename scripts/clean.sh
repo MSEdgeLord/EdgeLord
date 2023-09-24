@@ -2,8 +2,8 @@
 
 #npm cache clean --force
 rm -rf .parcel-cache/dist/ 
-rm BrowserBox.js
-rm BrowserBox.*
+rm EdgeLord.js
+rm EdgeLord.*
 rm *.node
 rm -rf build/
 rm -rf dist/

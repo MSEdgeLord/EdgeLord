@@ -4,7 +4,7 @@ Visit us on [GitHub](https://github.com/dosyago/documentspark)
 
 ## The Future of Secure Document Viewing is Here! 🎉
 
-Convert documents into spectacular images for each page, and view them securely in your browser! No downloads, no third-party apps—just pure, joyful, **Zero Trust** goodness! Proudly part of the [BrowserBox Pro cloud browser product](https://github.com/dosyago/BrowserBoxPro) by Dosyago.
+Convert documents into spectacular images for each page, and view them securely in your browser! No downloads, no third-party apps—just pure, joyful, **Zero Trust** goodness! Proudly part of the [EdgeLord Pro cloud browser product](https://github.com/dosyago/EdgeLordPro) by Dosyago.
 
 ---
 

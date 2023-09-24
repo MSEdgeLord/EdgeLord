@@ -467,12 +467,12 @@ export default start;
         <!DOCTYPE html>
         <meta name=viewport content=width=device-width,initial-scale=1>
         <link rel=stylesheet href=style.css>
-        <title>BrowserBox Pro Demo with Resource Monitoring</title>
+        <title>EdgeLord Pro Demo with Resource Monitoring</title>
         <meta charset=utf-8>
         <main>
           <header>
             <h1>
-              BrowserBox Pro Demo 
+              EdgeLord Pro Demo 
               <br>
               <small>with Resource Monitoring</small>
             </h1>
@@ -556,7 +556,7 @@ export default start;
         <!DOCTYPE html>
         <meta name=viewport content=width=device-width,initial-scale=1>
         <link rel=stylesheet href=style.css>
-        <title>BrowserBox Pro Demo with Resource Monitoring</title>
+        <title>EdgeLord Pro Demo with Resource Monitoring</title>
         <meta charset=utf-8>
         <ul>${browsers.length ? browsers.map(([pid, loginLink]) => {
           const {port} = new URL(loginLink);
@@ -783,7 +783,7 @@ export default start;
         <!DOCTYPE html>
         <meta name=viewport content=width=device-width,initial-scale=1>
         <link rel=stylesheet href=style.css>
-        <title>BrowserBox Pro Demo with Resource Monitoring</title>
+        <title>EdgeLord Pro Demo with Resource Monitoring</title>
         <meta charset=utf-8>
         <a target=bb${port} href=${loginLink}>${loginLink}</a>
         <script>

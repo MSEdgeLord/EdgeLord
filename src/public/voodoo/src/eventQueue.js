@@ -643,11 +643,11 @@
                           state.viewState.modalComponent.openModal({modal:{
                             type:'notice',
                             message: `Due to a bug in Safari, we need your permission 
-                              to access your microphone or camera for improved BrowserBox streaming. 
+                              to access your microphone or camera for improved EdgeLord streaming. 
                               We do not collect or use any of your data, and you can stop the active 
                               camera or mic after granting the permission and streaming will remain enhanced.
                               To stop the camera or mic, click the red symbol in the Safari address bar.
-                              If you prefer, you can just deny the permission and BrowserBox will still work, 
+                              If you prefer, you can just deny the permission and EdgeLord will still work, 
                               though the streaming may not be as good. Thank you for your understanding.`
                             ,
                             title: `Permissions for Safari`,

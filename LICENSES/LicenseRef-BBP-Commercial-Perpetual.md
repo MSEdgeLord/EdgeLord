@@ -1,18 +1,18 @@
-# BrowserBox Pro Perpetual Commercial License Agreement
+# EdgeLord Pro Perpetual Commercial License Agreement
 
 Version 1.3
 
 Effective Date: [Insert Effective Date]
 
-This Perpetual Commercial License Agreement ("Agreement") is between you (both the individual accessing the Software and any single legal entity for which the individual is acting) (“You” or “Your”) and DOSYAGO, (“DOSYAGO”), a company organized under the laws of Delaware, for the BrowserBox Pro software product.
+This Perpetual Commercial License Agreement ("Agreement") is between you (both the individual accessing the Software and any single legal entity for which the individual is acting) (“You” or “Your”) and DOSYAGO, (“DOSYAGO”), a company organized under the laws of Delaware, for the EdgeLord Pro software product.
 
 ## 1. Grant of License
 
-1.1 Subject to Your compliance with the terms of this Agreement and possession of a valid Order Receipt, DOSYAGO grants You a non-exclusive, non-transferable, revocable license to use the BrowserBox Pro software product (“Software”) in perpetuity.
+1.1 Subject to Your compliance with the terms of this Agreement and possession of a valid Order Receipt, DOSYAGO grants You a non-exclusive, non-transferable, revocable license to use the EdgeLord Pro software product (“Software”) in perpetuity.
 
 1.2 You may use the Software in as many commercial applications as you like and in your own commercial applications and products, including but not limited to premium VPN services, RBI systems, system integration portals, web automation and scraping products, educational platforms, and other products and apps.
 
-1.3 Customers and users of your products do not need to purchase their own license, so long as they are not developing their own commercial products with BrowserBox Pro.
+1.3 Customers and users of your products do not need to purchase their own license, so long as they are not developing their own commercial products with EdgeLord Pro.
 
 ## 2. Seats
 
@@ -72,7 +72,7 @@ Date
 
 ## Definitions:
 
-**Agreement**: Refers to this BrowserBox Pro Perpetual Commercial License Agreement, including all its terms and conditions.
+**Agreement**: Refers to this EdgeLord Pro Perpetual Commercial License Agreement, including all its terms and conditions.
 
 **Effective Date**: The date from which the terms of this Agreement commence, typically the date of purchase.
 
@@ -80,11 +80,11 @@ Date
 
 **Order Receipt**: A document attached to this Agreement confirming the purchase, including the number of seats and license code.
 
-**Software**: Refers to the BrowserBox Pro software product and includes any updates or upgrades provided as part of the support and maintenance.
+**Software**: Refers to the EdgeLord Pro software product and includes any updates or upgrades provided as part of the support and maintenance.
 
 **Seat**: A logical entitlement that allows one concurrent user to use the Software at any given time.
 
-**DOSYAGO**: The company granting the license to use the BrowserBox Pro software product.
+**DOSYAGO**: The company granting the license to use the EdgeLord Pro software product.
 
 **You/Your**: The individual or legal entity licensing the Software under this Agreement.
 

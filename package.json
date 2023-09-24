@@ -9,7 +9,7 @@
     "main": false
   },
   "bin": {
-    "bb": "./dist/BrowserBox.cjs"
+    "bb": "./dist/EdgeLord.cjs"
   },
   "parcelIgnore": [
     ".*/bang.js",
