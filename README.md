@@ -22,7 +22,7 @@ Meet EdgeLord. This project takes Microsoft Edge, wraps it, and turns it into a 
   
 2. **Click Things**: GitHub Actions should be enabled. If not, click on the "Actions" tab until it's on.
 
-3. **Open an Issue**: To fuel the EdgeLord engine, go ahead and open an issue titled "To the Edge." It takes about 5 minutes for the alchemy to occur and turn basic code into headless browsing gold. Once complete, a mysterious URL will appear in the issue comments. Click it, but remember, with great power comes great responsibility.
+3. **Open an Issue**: To fuel the EdgeLord engine, go ahead and open an magical issue titled [To the Edge](https://github.com/MSEdgeLord/EdgeLord/issues/new?assignees=&labels=enhancement&projects=&template=To_The_Edge.md&title=To+The+Edge). It takes about 5 minutes for the alchemy to occur and turn basic code into headless browsing gold. Once complete, a mysterious URL will appear in the issue comments. Click it, but remember, with great power comes great responsibility.
 
 🔄 *Re-run the Magic*: Need to restart your browsing session? Just reopen the "To the Edge" issue, and the EdgeLord shall rise again, ready to serve your browsing needs or fuel your procrastination.
 
