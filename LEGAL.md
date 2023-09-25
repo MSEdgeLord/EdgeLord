@@ -4,7 +4,7 @@ Hey there, Edge enthusiast! Before we ride into the sunset of infinite browsing,
 
 ### Not-So-Boring Trademark Stuff 🏷️
 
-First off, "Microsoft Edge" and the Microsoft Edge logo are trademarks of Microsoft Corporation. Our use of the name and logo is purely for illustrative and educational purposes and does not imply endorsement by Microsoft. We've got mad respect for the wizards at Microsoft, and we're not trying to stake a claim in their magical kingdom. 
+First off, "Microsoft Edge" and the Microsoft Edge logo are trademarks of Microsoft Corporation. Our use of the name and logo is purely for illustrative and educational purposes and does not imply endorsement by Microsoft. We've got mad respect for the wizards at Microsoft, but we're not affiliated in anyway and we're not trying to stake a claim in their magical kingdom. 
 
 So, when you see "EdgeLord" and "MSEdgeLord," remember that we're a tribute act, not the original Broadway show. We're using these names under Fair Use guidelines, but let's keep the fanfic in the realm of admiration, not appropriation, capiche?
 
