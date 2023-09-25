@@ -1,26 +1,35 @@
 #!/usr/bin/env bash
 
-# Determine the system architecture
-amd64=$(dpkg --print-architecture || uname -m)
+# Check for required dependencies
+check_dependencies() {
+  for cmd in "$@"; do
+    if ! command -v "$cmd" &> /dev/null; then
+      echo "Installing missing dependency: $cmd"
+      sudo apt-get install -yq "$cmd"
+    fi
+  done
+}
 
-# Remove any existing downloaded files
-rm microsoft-edge-stable_current_$amd64.deb || :
+# Check and install any missing dependencies
+check_dependencies curl gpg
 
-# Download the Microsoft Edge .deb package
-wget https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_current_$amd64.deb
+# Add Microsoft's GPG key
+curl -s https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg
 
-# Check if the file was downloaded successfully
-if [[ -f microsoft-edge-stable_current_$amd64.deb ]]; then
-  # Install the downloaded package
-  sudo dpkg -i microsoft-edge-stable_current_$amd64.deb 
+# Move the GPG key to the trusted keyring
+sudo install -o root -g root -m 644 microsoft.gpg /etc/apt/trusted.gpg.d/
 
-  # Fix any broken dependencies
-  sudo apt --fix-broken -y install
+# Add the Microsoft Edge stable repository
+sudo sh -c 'echo "deb [arch=amd64] https://packages.microsoft.com/repos/edge stable main" > /etc/apt/sources.list.d/microsoft-edge-stable.list'
 
-  # Remove the downloaded package
-  rm microsoft-edge-stable_current_$amd64.deb || :
-else
-  # Fallback to installing Chromium if the download fails
-  sudo apt install -y chromium
-fi
+# Clean up the downloaded GPG key
+rm -f microsoft.gpg
+
+# Update package list
+sudo apt-get update -q
+
+# Install Microsoft Edge stable in a non-interactive manner
+sudo DEBIAN_FRONTEND=noninteractive apt-get install -yq microsoft-edge-stable
+
+echo "Microsoft Edge Stable has been installed successfully!"
 
