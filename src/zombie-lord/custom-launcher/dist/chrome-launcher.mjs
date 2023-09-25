@@ -12,10 +12,13 @@ import path from "path";
 import net from "net";
 import rimraf from "rimraf";
 import * as chromeFinder from "./chrome-finder.mjs";
+import _EdgeFinder from './Utilities.cjs';
 import * as random_port_1 from "./random-port.mjs";
 import * as flags_1 from "./flags.js";
 import * as utils_1 from "./utils.mjs";
 import log from 'lighthouse-logger';
+
+const { ['default']: EdgeFinder } = _EdgeFinder;
 
 const { spawn, execSync } = childProcess;
 const isWsl = utils_1.getPlatform() === 'wsl';
@@ -29,6 +32,8 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
     step((generator = generator.apply(thisArg, _arguments || [])).next());
   });
 };
+
+console.log(EdgeFinder.GetEdge());
 
 const _SIGINT = 'SIGINT';
 //const _SIGINT_EXIT_CODE = 130;
@@ -130,7 +135,8 @@ export default class Launcher {
     return chromeFinder[utils_1.getPlatform()]()[0];
   }
   static getInstallations() {
-    return chromeFinder[utils_1.getPlatform()]();
+    //return chromeFinder[utils_1.getPlatform()]();
+    return EdgeFinder.GetEdge();
   }
   // Wrapper function to enable easy testing.
   makeTmpDir() {
