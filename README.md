@@ -2,7 +2,7 @@
 
 ## Description
 
-Meet EdgeLord. This project takes Microsoft Edge, wraps it, and turns it into a full-stack web application. Because why browse locally when you can run Edge on a random server somewhere in the cloud?
+Meet EdgeLord. This project takes [Microsoft Edge](https://github.com/MicrosoftEdge/MSEdge), wraps it, and turns it into a full-stack web application. Because why browse locally when you can run Edge on a random server somewhere in the cloud?
 
 ## Features
 
