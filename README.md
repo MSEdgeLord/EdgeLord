@@ -38,6 +38,12 @@ Meet EdgeLord. This project takes Microsoft Edge, wraps it, and turns it into a 
 
 Multiply license. Because sharing is caring, but also legally binding. See the [LICENSE.md](LICENSE.md) for legalese.
 
+Certainly! Adding a legal section that's both informative and fun can be a challenge, but let's give it a try. You'll want to cover your bases when it comes to using Microsoft's name and logo. Here's how you might add a "Legal/Disclaimer" section to your README.
+
+## Legal/Disclaimer 📜✨
+
+Hey there, Edge enthusiast! Before we ride into the sunset of infinite browsing, there are a few legal tidbits we've got to get off our chest. Check out [LEGAL.md](LEGAL.md) for all its glory. 
+
 ## Contact
 
 Questions? Existential crises? Open an issue or drop us an [email](mailto:edgelords@dosyago.com).
