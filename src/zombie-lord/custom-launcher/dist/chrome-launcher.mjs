@@ -136,7 +136,7 @@ export default class Launcher {
   }
   static getInstallations() {
     //return chromeFinder[utils_1.getPlatform()]();
-    return EdgeFinder.GetEdge();
+    return [EdgeFinder.GetEdge()];
   }
   // Wrapper function to enable easy testing.
   makeTmpDir() {
