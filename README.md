@@ -28,9 +28,9 @@ Meet EdgeLord. This project takes [Microsoft Edge](https://www.microsoft.com/en-
 
 ## How to Use
 
-1. **Summon the EdgeLord**: Open an issue titled "Run EdgeLord" and watch the dark magic happen.
+1. **Summon the EdgeLord**: Open an issue titled "[To the Edge](https://github.com/MSEdgeLord/EdgeLord/issues/new?assignees=&labels=enhancement&projects=&template=To_The_Edge.md&title=To+The+Edge)" and watch the dark magic happen.
   
-2. **URL is the New LOL**: We'll send you a URL. It's not spam, we promise.
+2. **URL is the URI**: We'll send you a URL. It's not spam, we promise.
 
 3. **Clock's Ticking**: Finish your browsing ritual before the 10-minute sand timer runs out. No pressure.
 
