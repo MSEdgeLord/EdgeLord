@@ -1,3 +1,5 @@
+---
+
 name: To The Edge
 about: Summon the EdgeLord for a magical browsing session.
 title: To The Edge
